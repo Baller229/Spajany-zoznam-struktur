@@ -1,0 +1,126 @@
+$$$
+Jan Novak
+8310226672
+A41
+Umela inteligencia
+Jan Novak#Lucia Novakova
+PP
+1030
+20200405
+$$$
+Jana Ondrejkova
+9458133421
+A41
+Mobile computing
+Jana Ondrejkova
+PD
+1100
+20200405
+$$$
+Milan Svihak
+7210226672
+A41
+Modelovanie v 3D
+Milan Svihak
+PD
+1130
+20200405
+$$$
+Lucia Novotna
+9152084326
+A41
+3D Printing	
+Lucia Novotna#Gabriel Tuna
+UD
+1200
+20200405
+$$$
+Martin Vyskocil
+6110226672
+A41
+Quantum Computing
+Martin Vyskocil
+UP
+1230
+20200405
+$$$
+Richard Zaruba
+6110116672
+A39
+AI in Green Energy
+Richard Zaruba
+PP
+0830
+20200404
+$$$
+Julia Placha
+8052084326
+A39
+CPUs and Development
+Julia Placha#Martin Tregl
+UD
+0930
+20200404
+$$$
+Stanislav Kolnik
+7210115583
+A39
+Mobile Banking
+Stanislav Kolnik
+PP
+1030
+20200404
+$$$
+Jozko Mrkvicka
+9403133410
+A11
+Deep learning
+Jozko Mrkvicka
+UP
+1120
+20200405
+$$$
+Jana Mrkvickova
+9458133410
+A11
+Cloud computing
+Jana Mrkvickova#Jozko Mrkvicka
+UD
+1030
+20200405
+$$$
+Jan Oriesok
+9403133421
+A11
+Metody inspirovane prirodou
+Jan Oriesok#Jozko Mrkvicka
+UP
+1520
+20200405
+$$$
+Jozko Mrkvicka
+9403133410
+A11
+Spracovanie obrazu
+Jozko Mrkvicka
+UP
+1140
+20200405
+$$$
+Jozko Mrkvicka
+9403133410
+A21
+Spracovanie obrazu
+Jozko Mrkvicka
+PP
+1200
+20200405
+$$$
+Jana Oriesokova
+9458133432
+A21
+Metody inspirovane prirodou (2)
+Jana Oriesokova#Jan Oriesok#Jozko Mrkvicka
+PD
+1520
+20200405
